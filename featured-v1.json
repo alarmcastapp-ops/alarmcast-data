@@ -1,18 +1,1 @@
-{
-  "partners": [
-    {
-      "name": "Podnews Weekly Review",
-      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/19/92/44/19924476-c9f9-7e8f-cfa6-3fafef7aad00/mza_3043801308304088966.jpg/600x600bb.jpg",
-      "feedUrl": "https://rss.buzzsprout.com/1538779.rss",
-      "itunesId": 1542481043,
-      "lang": "en"
-    },
-    {
-      "name": "Skeptoid",
-      "artworkUrl": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8e/ca/a2/8ecaa2ba-b088-3c75-4da1-f23ed58b9939/mza_10078299685339114494.png/600x600bb.jpg",
-      "feedUrl": "https://feed.skeptoid.com/",
-      "itunesId": 203844864,
-      "lang": "en"
-    }
-  ]
-}
+{"partners": [
