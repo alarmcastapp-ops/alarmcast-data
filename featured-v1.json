@@ -1,1 +1,11 @@
-{"partners": []}
+{
+  "partners": [
+    {
+      "name": "InSession Film Podcast",
+      "artworkUrl": "https://static.libsyn.com/p/assets/e/2/8/a/e28a43a04a106ebf/InSession-Film-iTunes-Logo.png",
+      "feedUrl": "https://insessionfilm.libsyn.com/rss",
+      "itunesId": 605634337,
+      "lang": "en"
+    }
+  ]
+}
