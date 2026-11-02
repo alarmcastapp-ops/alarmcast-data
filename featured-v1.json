@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "The Three Ravens Podcast",
+      "artworkUrl": "https://assets.pippa.io/shows/6404e1f4c5ea8c0011811194/1762731467101-0eb1042b-7eea-4cd5-b8b9-9f44f87aadbd.jpeg",
+      "feedUrl": "https://feeds.acast.com/public/shows/6404e1f4c5ea8c0011811194",
+      "itunesId": 1675830991,
+      "lang": "en"
+    },
+    {
       "name": "InSession Film Podcast",
       "artworkUrl": "https://static.libsyn.com/p/assets/e/2/8/a/e28a43a04a106ebf/InSession-Film-iTunes-Logo.png",
       "feedUrl": "https://insessionfilm.libsyn.com/rss",
