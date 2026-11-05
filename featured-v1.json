@@ -1,6 +1,20 @@
 {
   "partners": [
     {
+      "name": "Weird AF News",
+      "artworkUrl": "https://image.simplecastcdn.com/images/5c60c568-39f6-40e9-a56e-c625083c350f/414d0c2e-b084-49fe-a1a9-d640aca8d0ef/3000x3000/anchor-podcast-vb5rk72hllo.jpg?aid=rss_feed",
+      "feedUrl": "https://feeds.simplecast.com/HoCEaAX0",
+      "itunesId": 1265298753,
+      "lang": "en"
+    },
+    {
+      "name": "As The Story Grows",
+      "artworkUrl": "https://image.simplecastcdn.com/images/3d1441f3-52e1-4915-8b62-37a6d59b38f1/024d35fa-46f4-401c-8b7c-d01a793f5ae8/3000x3000/g8bfutzg.jpg?aid=rss_feed",
+      "feedUrl": "https://feeds.simplecast.com/T5FiyIM_",
+      "itunesId": 962812433,
+      "lang": "en"
+    },
+    {
       "name": "The Three Ravens Podcast",
       "artworkUrl": "https://assets.pippa.io/shows/6404e1f4c5ea8c0011811194/1762731467101-0eb1042b-7eea-4cd5-b8b9-9f44f87aadbd.jpeg",
       "feedUrl": "https://feeds.acast.com/public/shows/6404e1f4c5ea8c0011811194",
