@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "ThreadTalk",
+      "artworkUrl": "https://content.production.cdn.art19.com/images/05/0a/8d/88/050a8d88-a5e0-4e6c-a0b4-8c9d5520a1b6/00b479e974e7d2cf6374f65addce5a9c3e52de2e89d84378a705b927474ef873e8013917bc31b54725558d710972c1abf684ab002362866337b39e4cdd8e9add.jpeg",
+      "feedUrl": "https://rss.art19.com/the-reddit-review-show",
+      "itunesId": 1721984466,
+      "lang": "en"
+    },
+    {
       "name": "Weird AF News",
       "artworkUrl": "https://image.simplecastcdn.com/images/5c60c568-39f6-40e9-a56e-c625083c350f/414d0c2e-b084-49fe-a1a9-d640aca8d0ef/3000x3000/anchor-podcast-vb5rk72hllo.jpg?aid=rss_feed",
       "feedUrl": "https://feeds.simplecast.com/HoCEaAX0",
