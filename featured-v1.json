@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "SHE Gets It Pod",
+      "artworkUrl": "https://media.redcircle.com/images/2026/7/18/11/a87813ee-ec17-4605-8bef-050e1726f83d_shegetsitpod_szn_26_cover.jpg",
+      "feedUrl": "https://feeds.redcircle.com/e293ec14-4970-4620-8845-f27557e19c9b",
+      "itunesId": 1363573187,
+      "lang": "en"
+    },
+    {
       "name": "ThreadTalk",
       "artworkUrl": "https://content.production.cdn.art19.com/images/05/0a/8d/88/050a8d88-a5e0-4e6c-a0b4-8c9d5520a1b6/00b479e974e7d2cf6374f65addce5a9c3e52de2e89d84378a705b927474ef873e8013917bc31b54725558d710972c1abf684ab002362866337b39e4cdd8e9add.jpeg",
       "feedUrl": "https://rss.art19.com/the-reddit-review-show",
