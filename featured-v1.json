@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "Simple English News Daily",
+      "artworkUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ba176831c794a92828aa9d379652df2b.jpg",
+      "feedUrl": "https://www.spreaker.com/show/4907677/episodes/feed",
+      "itunesId": 1505603790,
+      "lang": "en"
+    },
+    {
       "name": "SHE Gets It Pod",
       "artworkUrl": "https://media.redcircle.com/images/2026/7/18/11/a87813ee-ec17-4605-8bef-050e1726f83d_shegetsitpod_szn_26_cover.jpg",
       "feedUrl": "https://feeds.redcircle.com/e293ec14-4970-4620-8845-f27557e19c9b",
