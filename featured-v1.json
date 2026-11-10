@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "3BlackGeeks Podcast",
+      "artworkUrl": "https://static.libsyn.com/p/assets/d/c/7/9/dc79597916b92ec1d959afa2a1bf1c87/1000019036.png",
+      "feedUrl": "https://3blackgeeks.libsyn.com/rss",
+      "itunesId": 563769786,
+      "lang": "en"
+    },
+    {
       "name": "Simple English News Daily",
       "artworkUrl": "https://d3wo5wojvuv7l.cloudfront.net/t_rss_itunes_square_1400/images.spreaker.com/original/ba176831c794a92828aa9d379652df2b.jpg",
       "feedUrl": "https://www.spreaker.com/show/4907677/episodes/feed",
