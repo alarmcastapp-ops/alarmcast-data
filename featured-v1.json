@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "Make It Make Sense",
+      "artworkUrl": "https://storage.buzzsprout.com/lv99xur37vnkz7z7i6cej06vnliv?.jpg",
+      "feedUrl": "https://rss.buzzsprout.com/2384305.rss",
+      "itunesId": 1756553746,
+      "lang": "en"
+    },
+    {
       "name": "Auditory Anthology",
       "artworkUrl": "https://assets.pippa.io/shows/65540e5778cd3a00123751d2/1700008063971-ca0dbaf7ac5f13e4bb441469385b10c1.jpeg",
       "feedUrl": "https://feeds.acast.com/public/shows/65540e5778cd3a00123751d2",
