@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "Standup Comedy \"Your Host and MC\"",
+      "artworkUrl": "https://storage.buzzsprout.com/8e3gpi580guuyj4pdo9wl5z985ps?.jpg",
+      "feedUrl": "https://rss.buzzsprout.com/838567.rss",
+      "itunesId": 1501005518,
+      "lang": "en"
+    },
+    {
       "name": "Make It Make Sense",
       "artworkUrl": "https://storage.buzzsprout.com/lv99xur37vnkz7z7i6cej06vnliv?.jpg",
       "feedUrl": "https://rss.buzzsprout.com/2384305.rss",
