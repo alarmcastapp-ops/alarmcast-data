@@ -1,6 +1,13 @@
 {
   "partners": [
     {
+      "name": "So There I Was",
+      "artworkUrl": "https://sothereiwas.us/wp-content/uploads/2024/05/sitelogo.jpg",
+      "feedUrl": "https://sothereiwas.us/?feed=podcast",
+      "itunesId": 1628848482,
+      "lang": "en"
+    },
+    {
       "name": "Fun Facts Daily",
       "artworkUrl": "https://megaphone.imgix.net/podcasts/fe3784ae-198b-11f0-91a3-0f6a7cb73d31/image/68ba595ba6ba941c972898366cb62e76.png?ixlib=rails-4.3.1&max-w=3000&max-h=3000&fit=crop&auto=format,compress",
       "feedUrl": "https://feeds.megaphone.fm/ARML3789803370",
